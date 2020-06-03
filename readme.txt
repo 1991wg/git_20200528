@@ -15,3 +15,6 @@ this is test2
 
 1231
 test
+
+gut！
+git stash
